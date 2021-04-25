@@ -1,7 +1,7 @@
 # Tech Challenge : Arbitrage Loops
 
-During one of the interview I got, the compagny asked to work on the [following puzzle](https://priceonomics.com/jobs/puzzle/) in the field of graph theory.  
-It consists of finding arbitrage loops given exchange rates. This is my attempt for this challenge. 
+During one of the interviews I had, the compagny asked to work on the [following puzzle](https://priceonomics.com/jobs/puzzle/) in the field of graph theory.  
+It consists of finding arbitrage loops given exchange rates. This is my attempt to this challenge. 
 
 ## Solution :
 
