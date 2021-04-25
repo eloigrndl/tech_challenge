@@ -1,7 +1,6 @@
 # Tech Challenge : Arbitrage Loops
 
-During one of the interviews I had, the compagny asked to work on the [following puzzle](https://priceonomics.com/jobs/puzzle/) in the field of graph theory.  
-It consists of finding arbitrage loops given exchange rates. This is my attempt to this challenge. 
+During one of the interviews I had, the compagny asked to work on the [following puzzle](https://priceonomics.com/jobs/puzzle/) in the field of graph theory,  using Scala. It consists of finding arbitrage loops given exchange rates. This is my attempt to this challenge : the solution is a Scala script, executable by [Ammonite](http://ammonite.io/#ScalaScripts) 
 
 ## Solution :
 
